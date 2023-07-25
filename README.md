@@ -1,2 +1,2 @@
 # apirest_php
-Estudo sobre API Rest com PHP + Composer
+Estudo de como desenvolver uma API Rest com PHP
